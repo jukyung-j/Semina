@@ -18,3 +18,5 @@
 **1. The Power of Scale for Parameter-Efficient Prompt Tuning**: prompt tuning관련 논문 정리
 
 **2. The SIGMORPHON 2020 Shared Task on Multilingual Grapheme-to-Phoneme Conversion**: IPA관련 논문  
+
+**3. Neural Grapheme-to-Phoneme Conversion with Pre-trained Grapheme Models**: BERT, BERT-fused이용한 G2P model
